@@ -68,7 +68,7 @@ class clg{
 
     constructor(y,x,a)
     { 
-    this.name=y;
+    this.nameeee=y;
     this.mobile_no=x;
     this.city=a;
     }
